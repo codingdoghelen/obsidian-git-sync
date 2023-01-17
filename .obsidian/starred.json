@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Self Learn Kanban",
+      "path": "002 Self-learning/Self Learn Kanban.md"
+    },
+    {
+      "type": "file",
+      "title": "Window Hot Keys",
+      "path": "000 Index/Windows Hot Keys.md"
+    },
+    {
+      "type": "file",
+      "title": "Pasted image 20230109160906",
+      "path": "003 Java/00 - Java Concepts/Junit/assert_equals_message.png"
+    },
+    {
+      "type": "file",
+      "title": "Java JDK 17 Updates",
+      "path": "003 Java/01 - JAVA 17 Updates/00. Java JDK 17 Updates.md"
+    }
+  ]
+}

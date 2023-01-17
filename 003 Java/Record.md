@@ -1,0 +1,2 @@
+- Immutatble - Once you have created the record class, cannot change the value.
+- No setter, only getter
