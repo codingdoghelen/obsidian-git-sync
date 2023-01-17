@@ -1,5 +1,9 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "Colored Folders for Blue Topaz"
+  ],
+  "baseFontSize": 15
 }
