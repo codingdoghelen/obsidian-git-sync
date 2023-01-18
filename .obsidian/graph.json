@@ -6,17 +6,25 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "colorGroups": [
+    {
+      "query": "java",
+      "color": {
+        "a": 1,
+        "rgb": 14732626
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "nodeSizeMultiplier": 0.921053059895833,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7132754626224439,
+  "collapse-forces": false,
+  "centerStrength": 0.579020182291667,
+  "repelStrength": 9.39290364583333,
+  "linkStrength": 0.750895182291667,
+  "linkDistance": 30,
+  "scale": 0.5087618855792603,
   "close": true
 }

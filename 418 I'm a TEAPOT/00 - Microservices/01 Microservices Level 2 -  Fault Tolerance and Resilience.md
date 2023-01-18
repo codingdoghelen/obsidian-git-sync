@@ -1,4 +1,4 @@
-Backlinks: [[Microservices]], [[Timeouts]], [[Java]], [[Hystrix]]
+Backlinks: [[00 Microservices]], [[Timeouts]], [[Java]], [[Hystrix]]
 Tags: #Microservices
 
 Multi-threading Issues:
@@ -32,6 +32,7 @@ Movie Catalog Service will auto detect if Movie Info Service is having too many 
 ---
 
 # Fallback Mechanism
+
 ![[fallback_recommedation.png]]
 
 Thow error: Not Recommeded uncless it is absoltely required.

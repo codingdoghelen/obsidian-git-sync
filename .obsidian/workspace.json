@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "372425ae9dba2d7c",
+        "id": "38f45c0fe189a4a6",
         "type": "tabs",
         "children": [
           {
-            "id": "12c42cc96ecade16",
+            "id": "de1edccbe3b40294",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "418 - I'm a TEAPOT/00 - Microservices/Circuit Breaker Pattern.md",
+                "file": "600 Spring Framework/Spring Cloud.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,26 +21,48 @@
             }
           },
           {
-            "id": "3afa58f5be34e92f",
+            "id": "c9b9a8d5ff8e75e8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "418 - I'm a TEAPOT/RestApi/image/restapi_put.png"
+                "file": "A00 Chow Sang Sang/Chow Sang Sang Proj Links.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
+          {
+            "id": "825efe9859dfaaf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JMS VS AMQP.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "959776fc337f8a59",
+        "type": "tabs",
+        "children": [
           {
             "id": "9275d4b762a871e1",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "000 Index/Obsidian/Obsidian Notes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+                "file": "200 Self-learning/Self Learn Kanban.md"
+              },
+              "pinned": true
             }
           }
         ]
@@ -93,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 459.5
   },
   "right": {
     "id": "0971721fa7300fcb",
@@ -109,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "418 - I'm a TEAPOT/00 - Microservices/Circuit Breaker Pattern.md",
+                "file": "JMS VS AMQP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "418 - I'm a TEAPOT/00 - Microservices/Circuit Breaker Pattern.md",
+                "file": "JMS VS AMQP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "418 - I'm a TEAPOT/00 - Microservices/Circuit Breaker Pattern.md"
+                "file": "JMS VS AMQP.md"
               }
             }
           }
@@ -170,17 +192,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e928a9ce15b7079f",
+  "active": "825efe9859dfaaf0",
   "lastOpenFiles": [
-    "418 - I'm a TEAPOT/RestApi/image/restapi_put.png",
-    "000 Index/Obsidian/Obsidian Notes.md",
-    "418 - I'm a TEAPOT/00 - Microservices/Circuit Breaker Pattern.md",
-    "300 Random/Tea.md",
-    "300 Random/T2.md",
+    "A00 Chow Sang Sang/Chow Sang Sang Proj Links.md",
     "200 Self-learning/Self Learn Kanban.md",
-    "200 Self-learning/Leetcode/topics.png",
-    "200 Self-learning/Leetcode/00 - Topics.md",
-    "000 Index/Readme.md",
-    "418 - I'm a TEAPOT/00 - Microservices/Load balancer.md"
+    "600 Spring Framework/Spring Framework.md",
+    "600 Spring Framework/Spring Cloud.md",
+    "500 Java/00 - Java Concepts/Java.md",
+    "500 Java/00 - Java Concepts/Modifier.md",
+    "Java/00 - Java Concepts/Switch Statements.md",
+    "500 Java/00 - Java Concepts/Junit/nested.png",
+    "500 Java/00 - Java Concepts/Junit/Pasted image 20230109175339.png",
+    "500 Java/00 - Java Concepts/Junit/assert_equals_message.png"
   ]
 }
